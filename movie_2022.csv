@@ -1,0 +1,241 @@
+,Title,genres,director_name,actor_name1,actor_name2,actor_name3,genres_director_actor
+0,Top Gun: Maverick,Action Drama,nan,nan,,,
+1,Avatar: The Way of Water*,Science Fiction Adventure Action,nan,nan,,,
+2,Black Panther: Wakanda Forever,Action Adventure Science Fiction,nan,nan,,,
+3,Doctor Strange in the Multiverse of Madness,Fantasy Action Adventure,nan,nan,,,
+4,Jurassic World Dominion,Adventure Action Science Fiction,nan,nan,,,
+5,Minions: The Rise of Gru,Animation Comedy Family,nan,nan,,,
+6,The Batman,Crime Mystery Thriller,nan,nan,,,
+7,Thor: Love and Thunder,Fantasy Action Comedy,nan,nan,,,
+8,Sonic the Hedgehog 2,Action Adventure Family Comedy,nan,nan,,,
+9,Puss in Boots: The Last Wish*,Animation Family Fantasy Adventure Comedy Drama,nan,nan,,,
+10,The 355,Action Thriller,Simon Kinberg,Jessica Chastain,Lupita Nyong'o,Penélope Cruz,Jessica Chastain Lupita Nyong'o Penélope Cruz Simon Kinberg Action Thriller
+11,The Legend of La Llorona,Family Animation Fantasy Horror,Patricia Harris Seeley,Autumn Reeser,Antonio Cupo,Danny Trejo,Autumn Reeser Antonio Cupo Danny Trejo Patricia Harris Seeley Family Animation Fantasy Horror
+12,The Commando,Action Crime Thriller,Asif Akbar,Mickey Rourke,Michael Jai White,,
+13,American Siege,Action Adventure Thriller,Edward Drake,Timothy V. Murphy,Bruce Willis,,
+14,Scream,Horror Mystery Thriller,"Matt Bettinelli-Olpin, Tyler Gillett",Melissa Barrera,Mason Gooding,Jenna Ortega,"Melissa Barrera Mason Gooding Jenna Ortega Matt Bettinelli-Olpin, Tyler Gillett Horror Mystery Thriller"
+15,Hotel Transylvania: Transformania,Animation Comedy Family Fantasy Adventure,"Jennifer Kluska, Derek Drymon",Andy Samberg,Selena Gomez,Kathryn Hahn,"Andy Samberg Selena Gomez Kathryn Hahn Jennifer Kluska, Derek Drymon Animation Comedy Family Fantasy Adventure"
+16,Shattered,Thriller,Luis Prieto,Cameron Monaghan,Frank Grillo,Lilly Krug,Cameron Monaghan Frank Grillo Lilly Krug Luis Prieto Thriller
+17,The Royal Treatment,Romance Comedy,Rick Jacobson,Laura Marano,Mena Massoud,,
+18,Redeeming Love,Romance Drama History,D.J. Caruso,Abigail Cowen,Tom Lewis,Logan Marshall-Green,Abigail Cowen Tom Lewis Logan Marshall-Green D.J. Caruso Romance Drama History
+19,The King's Daughter,Fantasy Adventure Family,Sean McNamara,Pierce Brosnan,Kaya Scodelario,Benjamin Walker,Pierce Brosnan Kaya Scodelario Benjamin Walker Sean McNamara Fantasy Adventure Family
+20,The Tiger Rising,Adventure Family,Ray Giarratana,Christian Convery,Dennis Quaid,Queen Latifah,Christian Convery Dennis Quaid Queen Latifah Ray Giarratana Adventure Family
+21,Hellblazers,Horror Action,Justin Lee,Bruce Dern,Billy Zane,Tony Todd,Bruce Dern Billy Zane Tony Todd Justin Lee Horror Action
+22,The Fallout,Drama,Megan Park,Jenna Ortega,Maddie Ziegler,Niles Fitch,Jenna Ortega Maddie Ziegler Niles Fitch Megan Park Drama
+23,Home Team,Family Comedy,"Charles Kinnane, Daniel Kinnane",Kevin James,Taylor Lautner,Rob Schneider,"Kevin James Taylor Lautner Rob Schneider Charles Kinnane, Daniel Kinnane Family Comedy"
+24,The Ice Age Adventures of Buck Wild,Animation Comedy Adventure Family,John C. Donkin,Simon Pegg,Utkarsh Ambudkar,Justina Machado,Simon Pegg Utkarsh Ambudkar Justina Machado John C. Donkin Animation Comedy Adventure Family
+25,Clean,Crime,Paul Solet,Adrien Brody,Glenn Fleshler,Mykelti Williamson,Adrien Brody Glenn Fleshler Mykelti Williamson Paul Solet Crime
+26,Sundown,Drama,Michel Franco,Tim Roth,Charlotte Gainsbourg,,
+27,Jackass Forever,Comedy Documentary,Jeff Tremaine,Johnny Knoxville,Steve-O,Chris Pontius,Johnny Knoxville Steve-O Chris Pontius Jeff Tremaine Comedy Documentary
+28,Moonfall,Science Fiction Adventure Action,Roland Emmerich,Halle Berry,Patrick Wilson,John Bradley,Halle Berry Patrick Wilson John Bradley Roland Emmerich Science Fiction Adventure Action
+29,Last Looks,Action Crime Thriller,Tim Kirkby,Charlie Hunnam,Mel Gibson,Morena Baccarin,Charlie Hunnam Mel Gibson Morena Baccarin Tim Kirkby Action Crime Thriller
+30,The Long Night,Horror,Rich Ragsdale,Scout Taylor-Compton,Nolan Gerard Funk,Jeff Fahey,Scout Taylor-Compton Nolan Gerard Funk Jeff Fahey Rich Ragsdale Horror
+31,Kimi,Thriller,Steven Soderbergh,Zoë Kravitz,Rita Wilson,Byron Bowers,Zoë Kravitz Rita Wilson Byron Bowers Steven Soderbergh Thriller
+32,Shut In,Thriller Horror Drama,D.J. Caruso,Rainey Qualley,Jake Horowitz,Luciana VanDette,Rainey Qualley Jake Horowitz Luciana VanDette D.J. Caruso Thriller Horror Drama
+33,Death on the Nile,Mystery Drama Crime Thriller Action Adventure,Kenneth Branagh,Tom Bateman,Annette Bening,Kenneth Branagh,Tom Bateman Annette Bening Kenneth Branagh Kenneth Branagh Mystery Drama Crime Thriller Action Adventure
+34,Marry Me,Romance Comedy Music,Kat Coiro,Jennifer Lopez,Owen Wilson,Maluma,Jennifer Lopez Owen Wilson Maluma Kat Coiro Romance Comedy Music
+35,Blacklight,Action Thriller,Mark Williams,Liam Neeson,Emmy Raver-Lampman,Taylor John Smith,Liam Neeson Emmy Raver-Lampman Taylor John Smith Mark Williams Action Thriller
+36,I Want You Back,Comedy Romance,Jason Orley,Charlie Day,Jenny Slate,Scott Eastwood,Charlie Day Jenny Slate Scott Eastwood Jason Orley Comedy Romance
+37,Tall Girl 2,Comedy Romance,Emily Ting,Ava Michelle,Griffin Gluck,Sabrina Carpenter,Ava Michelle Griffin Gluck Sabrina Carpenter Emily Ting Comedy Romance
+38,The Sky Is Everywhere,Drama Romance Music,Josephine Decker,Grace Kaufman,Pico Alexander,Jacques Colimon,Grace Kaufman Pico Alexander Jacques Colimon Josephine Decker Drama Romance Music
+39,The In Between,Romance Science Fiction Drama,Arie Posin,Joey King,Kyle Allen,Kim Dickens,Joey King Kyle Allen Kim Dickens Arie Posin Romance Science Fiction Drama
+40,Fistful of Vengeance,Action Fantasy,Roel Reiné,Iko Uwais,Lewis Tan,Lawrence Kao,Iko Uwais Lewis Tan Lawrence Kao Roel Reiné Action Fantasy
+41,Uncharted,Action Adventure,Ruben Fleischer,Tom Holland,Mark Wahlberg,Sophia Ali,Tom Holland Mark Wahlberg Sophia Ali Ruben Fleischer Action Adventure
+42,Dog,Drama Comedy,"Reid Carolin, Channing Tatum",Channing Tatum,Jane Adams,Kevin Nash,"Channing Tatum Jane Adams Kevin Nash Reid Carolin, Channing Tatum Drama Comedy"
+43,Texas Chainsaw Massacre,Horror Thriller,David Blue Garcia,Sarah Yarkin,Elsie Fisher,Mark Burham,Sarah Yarkin Elsie Fisher Mark Burham David Blue Garcia Horror Thriller
+44,The Cursed,Horror Fantasy Mystery,Sean Ellis,Boyd Holbrook,Kelly Reilly,Alistair Petrie,Boyd Holbrook Kelly Reilly Alistair Petrie Sean Ellis Horror Fantasy Mystery
+45,A Fairy Tale After All,Adventure Family Fantasy,Erik Peter Carlson,Emily Shenaut,Brian Hull,Gabriel Burrafato,Emily Shenaut Brian Hull Gabriel Burrafato Erik Peter Carlson Adventure Family Fantasy
+46,Cyrano,Drama Romance,Joe Wright,Peter Dinklage,Haley Bennett,Kelvin Harrison Jr.,Peter Dinklage Haley Bennett Kelvin Harrison Jr. Joe Wright Drama Romance
+47,Studio 666,Horror Comedy Music,BJ McDonell,Dave Grohl,Taylor Hawkins,Nate Mendel,Dave Grohl Taylor Hawkins Nate Mendel BJ McDonell Horror Comedy Music
+48,A Madea Homecoming,Comedy,Tyler Perry,Tyler Perry,Cassi Davis,David Mann,Tyler Perry Cassi Davis David Mann Tyler Perry Comedy
+49,No Exit,Thriller Mystery,Damien Power,Havana Rose Liu,Danny Ramirez,Dennis Haysbert,Havana Rose Liu Danny Ramirez Dennis Haysbert Damien Power Thriller Mystery
+50,Gasoline Alley,Action Thriller Crime Mystery,Edward John Drake,Bruce Willis,Luke Wilson,Devon Sawa,Bruce Willis Luke Wilson Devon Sawa Edward John Drake Action Thriller Crime Mystery
+51,The Batman,Crime Mystery Thriller,Matt Reeves,Robert Pattinson,Zoë Kravitz,Paul Dano,Robert Pattinson Zoë Kravitz Paul Dano Matt Reeves Crime Mystery Thriller
+52,After Yang,Science Fiction Drama,"Kogonada (writer/director); Colin Farrell, Jodie Turner-Smith, Justin H. Min, Malea Emma Tjandrawidjaja, Haley Lu Richardson, Ritchie Coster, Sarita Choudhury, Clifton Collins Jr.",Kogonada (writer/director); Colin Farrell,Jodie Turner-Smith,Justin H. Min,"Kogonada (writer/director); Colin Farrell Jodie Turner-Smith Justin H. Min Kogonada (writer/director); Colin Farrell, Jodie Turner-Smith, Justin H. Min, Malea Emma Tjandrawidjaja, Haley Lu Richardson, Ritchie Coster, Sarita Choudhury, Clifton Collins Jr. Science Fiction Drama"
+53,Fresh,Horror Thriller Comedy,Mimi Cave,Daisy Edgar-Jones,Sebastian Stan,Jonica T. Gibbs,Daisy Edgar-Jones Sebastian Stan Jonica T. Gibbs Mimi Cave Horror Thriller Comedy
+54,A Day to Die,Action Thriller Crime,Wes Miller,Kevin Dillon,Bruce Willis,Frank Grillo,Kevin Dillon Bruce Willis Frank Grillo Wes Miller Action Thriller Crime
+55,The Adam Project,Adventure Science Fiction,Shawn Levy,Ryan Reynolds,Mark Ruffalo,Jennifer Garner,Ryan Reynolds Mark Ruffalo Jennifer Garner Shawn Levy Adventure Science Fiction
+56,Turning Red,Animation Family Comedy Fantasy,Domee Shi,Rosalie Chiang,Sandra Oh,Ava Morse,Rosalie Chiang Sandra Oh Ava Morse Domee Shi Animation Family Comedy Fantasy
+57,Tyson's Run,Drama,Kim Bass,Rory Cochrane,Amy Smart,Major Dodson,Rory Cochrane Amy Smart Major Dodson Kim Bass Drama
+58,Rescued by Ruby,Family Drama,Katt Shea,Grant Gustin,Scott Wolf,Kaylah Zander,Grant Gustin Scott Wolf Kaylah Zander Katt Shea Family Drama
+59,The Outfit,Crime,Graham Moore,Mark Rylance,Zoey Deutch,Johnny Flynn,Mark Rylance Zoey Deutch Johnny Flynn Graham Moore Crime
+60,Deep Water,Drama Mystery Thriller,Adrian Lyne,Ben Affleck,Ana de Armas,Tracy Letts,Ben Affleck Ana de Armas Tracy Letts Adrian Lyne Drama Mystery Thriller
+61,Cheaper by the Dozen,Family Comedy,Gail Lerner,Gabrielle Union,Zach Braff,Erika Christensen,Gabrielle Union Zach Braff Erika Christensen Gail Lerner Family Comedy
+62,Windfall,Thriller Crime Drama,Charlie McDowell,Lily Collins,Jesse Plemons,Jason Segel,Lily Collins Jesse Plemons Jason Segel Charlie McDowell Thriller Crime Drama
+63,X,Horror Mystery Thriller,Ti West,Mia Goth,Jenna Ortega,Martin Henderson,Mia Goth Jenna Ortega Martin Henderson Ti West Horror Mystery Thriller
+64,Umma,Horror Mystery,Iris K. Shim,Sandra Oh,Fivel Stewart,MeeWha Alana Lee,Sandra Oh Fivel Stewart MeeWha Alana Lee Iris K. Shim Horror Mystery
+65,Alice,Thriller Drama,Krystin Ver Linden,Keke Palmer,Common,Gaius Charles,Keke Palmer Common Gaius Charles Krystin Ver Linden Thriller Drama
+66,Master,Horror Thriller Drama Mystery,Mariama Diallo,Regina Hall,Zoe Renee,Amber Gray,Regina Hall Zoe Renee Amber Gray Mariama Diallo Horror Thriller Drama Mystery
+67,Measure of Revenge,Thriller,Peyfa,Bella Thorne,Melissa Leo,Roma Maffia,Bella Thorne Melissa Leo Roma Maffia Peyfa Thriller
+68,The Lost City,Action Adventure Comedy,"Aaron Nee, Adam Nee (directors/screenplay); Oren Uziel, Dana Fox (screenplay); Sandra Bullock, Channing Tatum, Daniel Radcliffe, Da'Vine Joy Randolph, Brad Pitt",Sandra Bullock,Channing Tatum,Daniel Radcliffe,"Sandra Bullock Channing Tatum Daniel Radcliffe Aaron Nee, Adam Nee (directors/screenplay); Oren Uziel, Dana Fox (screenplay); Sandra Bullock, Channing Tatum, Daniel Radcliffe, Da'Vine Joy Randolph, Brad Pitt Action Adventure Comedy"
+69,Everything Everywhere All at Once,Action Adventure Science Fiction,"Daniel Kwan, Daniel Scheinert (directors/screenplay); Michelle Yeoh, Stephanie Hsu, Ke Huy Quan, Jenny Slate, Harry Shum Jr., James Hong, Jamie Lee Curtis",Michelle Yeoh,Stephanie Hsu,Ke Huy Quan,"Michelle Yeoh Stephanie Hsu Ke Huy Quan Daniel Kwan, Daniel Scheinert (directors/screenplay); Michelle Yeoh, Stephanie Hsu, Ke Huy Quan, Jenny Slate, Harry Shum Jr., James Hong, Jamie Lee Curtis Action Adventure Science Fiction"
+70,Infinite Storm,Thriller Adventure Drama,"Małgorzata Szumowska, Michał Englert",Naomi Watts,Billy Howle,Sophie Okonedo,"Naomi Watts Billy Howle Sophie Okonedo Małgorzata Szumowska, Michał Englert Thriller Adventure Drama"
+71,7 Days,Romance Comedy,Roshan Sethi,Karan Soni,Geraldine Viswanathan,Mark Duplass,Karan Soni Geraldine Viswanathan Mark Duplass Roshan Sethi Romance Comedy
+72,Moonshot,Comedy Romance Science Fiction,Chris Winterbauer,Cole Sprouse,Lana Condor,Mason Gooding,Cole Sprouse Lana Condor Mason Gooding Chris Winterbauer Comedy Romance Science Fiction
+73,Morbius,Action Science Fiction Fantasy,Daniel Espinosa,Jared Leto,Matt Smith,Adria Arjona,Jared Leto Matt Smith Adria Arjona Daniel Espinosa Action Science Fiction Fantasy
+74,The Bubble,Comedy,Judd Apatow,Karen Gillan,Iris Apatow,Fred Armisen,Karen Gillan Iris Apatow Fred Armisen Judd Apatow Comedy
+75,The Contractor,Action Thriller,Tarik Saleh,Chris Pine,Ben Foster,Gillian Jacobs,Chris Pine Ben Foster Gillian Jacobs Tarik Saleh Action Thriller
+76,Better Nate Than Ever,Music Family Comedy,Tim Federle,Rueby Wood,Joshua Bassett,Aria Brooks,Rueby Wood Joshua Bassett Aria Brooks Tim Federle Music Family Comedy
+77,Apollo 10 1⁄2: A Space Age Childhood,,Richard Linklater,Glen Powell,Zachary Levi,Milo Coy,
+78,Sonic the Hedgehog 2,Action Adventure Family Comedy,Jeff Fowler,James Marsden,Ben Schwartz,Tika Sumpter,James Marsden Ben Schwartz Tika Sumpter Jeff Fowler Action Adventure Family Comedy
+79,Ambulance,Thriller Action,Michael Bay,Jake Gyllenhaal,Yahya Abdul-Mateen II,Eiza González,Jake Gyllenhaal Yahya Abdul-Mateen II Eiza González Michael Bay Thriller Action
+80,All the Old Knives,Thriller Action,Janus Metz Pedersen,Chris Pine,Thandiwe Newton,Laurence Fishburne,Chris Pine Thandiwe Newton Laurence Fishburne Janus Metz Pedersen Thriller Action
+81,Metal Lords,Comedy Drama Music,Peter Sollett,Jaeden Martell,Isis Hainsworth,Adrian Greensmith,Jaeden Martell Isis Hainsworth Adrian Greensmith Peter Sollett Comedy Drama Music
+82,Father Stu,Drama,Rosalind Ross,Mark Wahlberg,Mel Gibson,Jacki Weaver,Mark Wahlberg Mel Gibson Jacki Weaver Rosalind Ross Drama
+83,Fantastic Beasts: The Secrets of Dumbledore,Fantasy Adventure Family,David Yates,Eddie Redmayne,Jude Law,Ezra Miller,Eddie Redmayne Jude Law Ezra Miller David Yates Fantasy Adventure Family
+84,Dual,Science Fiction Comedy,Riley Stearns,Karen Gillan,Beulah Koale,Theo James,Karen Gillan Beulah Koale Theo James Riley Stearns Science Fiction Comedy
+85,Choose or Die,Horror Thriller Science Fiction,Toby Meakins,Asa Butterfield,Iola Evans,Eddie Marsan,Asa Butterfield Iola Evans Eddie Marsan Toby Meakins Horror Thriller Science Fiction
+86,Titanic 666,Thriller Horror,Nick Lyon,Keesha Sharp,Jamie Bamber,Lydia Hearst,Keesha Sharp Jamie Bamber Lydia Hearst Nick Lyon Thriller Horror
+87,The Bad Guys,Animation Action Adventure Crime Comedy Family,Pierre Perifel,Sam Rockwell,Marc Maron,Craig Robinson,Sam Rockwell Marc Maron Craig Robinson Pierre Perifel Animation Action Adventure Crime Comedy Family
+88,The Northman,Action Adventure Fantasy,Robert Eggers,Alexander Skarsgård,Nicole Kidman,Claes Bang,Alexander Skarsgård Nicole Kidman Claes Bang Robert Eggers Action Adventure Fantasy
+89,The Unbearable Weight of Massive Talent,Action Comedy Crime,Tom Gormican,Nicolas Cage,Pedro Pascal,Sharon Horgan,Nicolas Cage Pedro Pascal Sharon Horgan Tom Gormican Action Comedy Crime
+90,Polar Bear,Documentary,"Alastair Fothergill, Jeff Wilson",Alastair Fothergill,Jeff Wilson (directors); Catherine Keener,,
+91,The Survivor,History Action Drama,Barry Levinson,Ben Foster,Vicky Krieps,Billy Magnussen,Ben Foster Vicky Krieps Billy Magnussen Barry Levinson History Action Drama
+92,Memory,Action Thriller Crime,Martin Campbell,Liam Neeson,Guy Pearce,Monica Bellucci,Liam Neeson Guy Pearce Monica Bellucci Martin Campbell Action Thriller Crime
+93,Crush,Comedy Romance,Sammi Cohen,Rowan Blanchard,Auliʻi Cravalho,Isabella Ferreira,Rowan Blanchard Auliʻi Cravalho Isabella Ferreira Sammi Cohen Comedy Romance
+94,Fortress: Sniper's Eye,Action Thriller Crime,Josh Sternfeld,Jesse Metcalfe,Bruce Willis,Chad Michael Murray,Jesse Metcalfe Bruce Willis Chad Michael Murray Josh Sternfeld Action Thriller Crime
+95,Green Ghost and the Masters of the Stone,Action Fantasy Comedy,Michael D. Olmos,Charlie Clark,Kuno Becker,Marko Zaror,Charlie Clark Kuno Becker Marko Zaror Michael D. Olmos Action Fantasy Comedy
+96,Corrective Measures,Action Science Fiction Thriller,Sean O'Reilly,Bruce Willis,Michael Rooker,,
+97,Doctor Strange in the Multiverse of Madness,Fantasy Action Adventure,Sam Raimi,Benedict Cumberbatch,Elizabeth Olsen,Chiwetel Ejiofor,Benedict Cumberbatch Elizabeth Olsen Chiwetel Ejiofor Sam Raimi Fantasy Action Adventure
+98,Along for the Ride,Romance Drama,Sofia Alvarez,Emma Pasarow,Belmont Cameli,Kate Bosworth,Emma Pasarow Belmont Cameli Kate Bosworth Sofia Alvarez Romance Drama
+99,Marmaduke,Animation Family Comedy Adventure,Mark A.Z. Dippé,Pete Davidson,J. K. Simmons,David Koechner,Pete Davidson J. K. Simmons David Koechner Mark A.Z. Dippé Animation Family Comedy Adventure
+100,Escape the Field,Thriller Horror,Emerson Moore,Jordan Claire Robbins,Theo Rossi,Tahirah Sharif,Jordan Claire Robbins Theo Rossi Tahirah Sharif Emerson Moore Thriller Horror
+101,Operation Mincemeat,War History Drama,John Madden,Colin Firth,Matthew Macfadyen,Kelly Macdonald,Colin Firth Matthew Macfadyen Kelly Macdonald John Madden War History Drama
+102,Senior Year,Comedy,Alex Hardcastle,Rebel Wilson,Sam Richardson,Zoë Chao,Rebel Wilson Sam Richardson Zoë Chao Alex Hardcastle Comedy
+103,Firestarter,Science Fiction Thriller Horror,Keith Thomas,Zac Efron,Ryan Kiera Armstrong,Sydney Lemmon,Zac Efron Ryan Kiera Armstrong Sydney Lemmon Keith Thomas Science Fiction Thriller Horror
+104,Sneakerella,Music Comedy Family,Elizabeth Allen Rosenbaum,Chosen Jacobs,Lexi Underwood,John Salley,Chosen Jacobs Lexi Underwood John Salley Elizabeth Allen Rosenbaum Music Comedy Family
+105,On the Count of Three,Comedy Drama,Jerrod Carmichael,Jerrod Carmichael,Christopher Abbott,Tiffany Haddish,Jerrod Carmichael Christopher Abbott Tiffany Haddish Jerrod Carmichael Comedy Drama
+106,Private Property,Thriller Drama,Chadd Harbold,Ashley Benson,Shiloh Fernandez,Logan Miller,Ashley Benson Shiloh Fernandez Logan Miller Chadd Harbold Thriller Drama
+107,Family Camp,Comedy Family,Brian Cates,Tommy Woodward,Eddie James,Leigh-Allyn Baker,Tommy Woodward Eddie James Leigh-Allyn Baker Brian Cates Comedy Family
+108,Montana Story,Drama,"Scott McGehee, David Siegel (directors/screenplay); Haley Lu Richardson, Owen Teague",Haley Lu Richardson,Owen Teague,,
+109,Vendetta,Action,Jared Cohn,Clive Standen,Theo Rossi,Mike Tyson,Clive Standen Theo Rossi Mike Tyson Jared Cohn Action
+110,Downton Abbey: A New Era,Drama Romance,Simon Curtis,Hugh Bonneville,Elizabeth McGovern,Maggie Smith,Hugh Bonneville Elizabeth McGovern Maggie Smith Simon Curtis Drama Romance
+111,Chip 'n Dale: Rescue Rangers,Animation Family Comedy Adventure Mystery,Akiva Schaffer,John Mulaney,Andy Samberg,Will Arnett,John Mulaney Andy Samberg Will Arnett Akiva Schaffer Animation Family Comedy Adventure Mystery
+112,Good Mourning,Comedy,"Colson Baker, Mod Sun (directors/screenplay); Colson Baker, Mod Sun, Becky G, Dove Cameron, Pete Davidson, Whitney Cummings, Megan Fox",Colson Baker,Mod Sun,Becky G,"Colson Baker Mod Sun Becky G Colson Baker, Mod Sun (directors/screenplay); Colson Baker, Mod Sun, Becky G, Dove Cameron, Pete Davidson, Whitney Cummings, Megan Fox Comedy"
+113,The Valet,Comedy Romance,Richard Wong,Eugenio Derbez,Samara Weaving,,
+114,Emergency,Comedy Drama Thriller,Carey Williams,RJ Cyler,Sabrina Carpenter,,
+115,Top Gun: Maverick,Action Drama,Joseph Kosinski,Tom Cruise,Miles Teller,Jennifer Connelly,Tom Cruise Miles Teller Jennifer Connelly Joseph Kosinski Action Drama
+116,The Bob's Burgers Movie,Animation Adventure Comedy,"Loren Bouchard, Bernard Derriman",H. Jon Benjamin,Dan Mintz,Eugene Mirman,"H. Jon Benjamin Dan Mintz Eugene Mirman Loren Bouchard, Bernard Derriman Animation Adventure Comedy"
+117,Zero Contact,Science Fiction Thriller,Rick Dugdale,Anthony Hopkins,Chris Brochu,Aleks Paunovic,Anthony Hopkins Chris Brochu Aleks Paunovic Rick Dugdale Science Fiction Thriller
+118,A Chiara,Drama,Jonas Carpignano,Swamy Rotolo,Claudio Rotolo,Carmela Fumo,Swamy Rotolo Claudio Rotolo Carmela Fumo Jonas Carpignano Drama
+119,South Park The Streaming Wars,Animation Comedy,Trey Parker,Trey Parker,Matt Stone,April Stewart,Trey Parker Matt Stone April Stewart Trey Parker Animation Comedy
+120,Hollywood Stargirl,Comedy Romance Music,Julia Hart,Elijah Richardson,Grace VanderWaal,Tyrel Jackson Williams,Elijah Richardson Grace VanderWaal Tyrel Jackson Williams Julia Hart Comedy Romance Music
+121,Crimes of the Future,Horror Science Fiction,David Cronenberg,Viggo Mortensen,Léa Seydoux,Kristen Stewart,Viggo Mortensen Léa Seydoux Kristen Stewart David Cronenberg Horror Science Fiction
+122,Benediction,Drama History War,Terence Davies,Jack Lowden,Peter Capaldi,Simon Russell Beale,Jack Lowden Peter Capaldi Simon Russell Beale Terence Davies Drama History War
+123,Interceptor,Action Thriller Adventure,Matthew Reilly,Elsa Pataky,Luke Bracey,,
+124,Fire Island,Comedy Romance,Andrew Ahn,Joel Kim Booster,Bowen Yang,Conrad Ricamora,Joel Kim Booster Bowen Yang Conrad Ricamora Andrew Ahn Comedy Romance
+125,Watcher,Mystery Thriller Horror,Chloe Okuno,Maika Monroe,Karl Glusman,Burn Gorman,Maika Monroe Karl Glusman Burn Gorman Chloe Okuno Mystery Thriller Horror
+126,Dashcam,Horror Thriller Comedy,Rob Savage,Annie Hardy,,,
+127,White Elephant,Action Crime Thriller,Jesse V. Johnson,Michael Rooker,Bruce Willis,Olga Kurylenko,Michael Rooker Bruce Willis Olga Kurylenko Jesse V. Johnson Action Crime Thriller
+128,Hustle,Drama Comedy,Jeremiah Zagar,Adam Sandler,Queen Latifah,Ben Foster,Adam Sandler Queen Latifah Ben Foster Jeremiah Zagar Drama Comedy
+129,Jurassic World Dominion,Adventure Action Science Fiction,Colin Trevorrow,Chris Pratt,Bryce Dallas Howard,Laura Dern,Chris Pratt Bryce Dallas Howard Laura Dern Colin Trevorrow Adventure Action Science Fiction
+130,Jennifer Lopez: Halftime,Documentary Music,Amanda Micheli,Amanda Micheli (director); Jennifer Lopez,,,
+131,Father of the Bride,Romance Comedy,Gaz Alazraki,Andy García,Gloria Estefan,Adria Arjona,Andy García Gloria Estefan Adria Arjona Gaz Alazraki Romance Comedy
+132,Lightyear,Animation Action Adventure Family Science Fiction,Angus MacLane,Chris Evans,Keke Palmer,Peter Sohn,Chris Evans Keke Palmer Peter Sohn Angus MacLane Animation Action Adventure Family Science Fiction
+133,Spiderhead,Science Fiction Thriller,Joseph Kosinski,Chris Hemsworth,Miles Teller,Jurnee Smollett,Chris Hemsworth Miles Teller Jurnee Smollett Joseph Kosinski Science Fiction Thriller
+134,Jerry & Marge Go Large,Comedy Drama,David Frankel,Bryan Cranston,Annette Bening,Rainn Wilson,Bryan Cranston Annette Bening Rainn Wilson David Frankel Comedy Drama
+135,Cha Cha Real Smooth,Comedy Drama Romance,Cooper Raiff,Cooper Raiff,Dakota Johnson,Raúl Castillo,Cooper Raiff Dakota Johnson Raúl Castillo Cooper Raiff Comedy Drama Romance
+136,Mid-Century,Horror Thriller,Sonja O'Hara,Shane West,Sarah Hay,Bruce Dern,Shane West Sarah Hay Bruce Dern Sonja O'Hara Horror Thriller
+137,Abandoned,Horror Mystery Thriller,Spencer Squire,Emma Roberts,John Gallagher Jr.,Michael Shannon,Emma Roberts John Gallagher Jr. Michael Shannon Spencer Squire Horror Mystery Thriller
+138,Beavis and Butt-Head Do the Universe,Animation Comedy Science Fiction,Mike Judge,Mike Judge,Gary Cole,Chris Diamantopoulos,Mike Judge Gary Cole Chris Diamantopoulos Mike Judge Animation Comedy Science Fiction
+139,Elvis,Drama Music History,Baz Luhrmann,Austin Butler,Tom Hanks,Olivia DeJonge,Austin Butler Tom Hanks Olivia DeJonge Baz Luhrmann Drama Music History
+140,The Black Phone,Horror Thriller,Scott Derrickson,Ethan Hawke,Mason Thames,Madeleine McGraw,Ethan Hawke Mason Thames Madeleine McGraw Scott Derrickson Horror Thriller
+141,The Man from Toronto,Action Adventure Comedy,Patrick Hughes,Kevin Hart,Woody Harrelson,Kaley Cuoco,Kevin Hart Woody Harrelson Kaley Cuoco Patrick Hughes Action Adventure Comedy
+142,The Sea Beast,Animation Adventure Family Fantasy,Chris Williams,Karl Urban,Zaris-Angel Hator,Jared Harris,Karl Urban Zaris-Angel Hator Jared Harris Chris Williams Animation Adventure Family Fantasy
+143,Marcel the Shell with Shoes On,Animation Comedy Family Drama Adventure,Dean Fleischer-Camp,Jenny Slate,Rosa Salazar,Thomas Mann,Jenny Slate Rosa Salazar Thomas Mann Dean Fleischer-Camp Animation Comedy Family Drama Adventure
+144,Rise,Drama,Akin Omotoso,Uche Agada,Ral Agada,Jaden Osimuwa,Uche Agada Ral Agada Jaden Osimuwa Akin Omotoso Drama
+145,Press Play,Music Romance Fantasy Drama Science Fiction,Greg Björkman,Clara Rugaard,Lewis Pullman,Lyrica Okano,Clara Rugaard Lewis Pullman Lyrica Okano Greg Björkman Music Romance Fantasy Drama Science Fiction
+146,Beauty,Romance Drama Music,Andrew Dosunmu,Gracie Marie Bradley,Niecy Nash,Aleyse Shannon,Gracie Marie Bradley Niecy Nash Aleyse Shannon Andrew Dosunmu Romance Drama Music
+147,Minions: The Rise of Gru,Animation Comedy Family,Kyle Balda,Steve Carell,Taraji P. Henson,Michelle Yeoh,Steve Carell Taraji P. Henson Michelle Yeoh Kyle Balda Animation Comedy Family
+148,The Forgiven,Drama,John Michael McDonagh,Ralph Fiennes,Jessica Chastain,Matt Smith,Ralph Fiennes Jessica Chastain Matt Smith John Michael McDonagh Drama
+149,Mr. Malcolm's List,Comedy Drama Romance,Emma Holly Jones,Freida Pinto,Sope Dirisu,Oliver Jackson-Cohen,Freida Pinto Sope Dirisu Oliver Jackson-Cohen Emma Holly Jones Comedy Drama Romance
+150,The Princess,Fantasy Action,Le-Van Kiet,Joey King,Dominic Cooper,Olga Kurylenko,Joey King Dominic Cooper Olga Kurylenko Le-Van Kiet Fantasy Action
+151,Hot Seat,Thriller,James Cullen Bressack,Kevin Dillon,Mel Gibson,Shannen Doherty,Kevin Dillon Mel Gibson Shannen Doherty James Cullen Bressack Thriller
+152,"Hello, Goodbye, and Everything in Between",Romance Drama,Michael Lewen,Talia Ryder,Jordan Fisher,Ayo Edebiri,Talia Ryder Jordan Fisher Ayo Edebiri Michael Lewen Romance Drama
+153,Thor: Love and Thunder,Fantasy Action Comedy,Taika Waititi,Chris Hemsworth,Christian Bale,Tessa Thompson,Chris Hemsworth Christian Bale Tessa Thompson Taika Waititi Fantasy Action Comedy
+154,South Park The Streaming Wars Part 2,Animation Comedy,Trey Parker,Trey Parker,Matt Stone,April Stewart,Trey Parker Matt Stone April Stewart Trey Parker Animation Comedy
+155,The Gray Man,Action Thriller,"Anthony Russo, Joe Russo",Ryan Gosling,Chris Evans,Ana de Armas,"Ryan Gosling Chris Evans Ana de Armas Anthony Russo, Joe Russo Action Thriller"
+156,Where the Crawdads Sing,Mystery Drama Thriller,Olivia Newman,Daisy Edgar-Jones,Taylor John Smith,Harris Dickinson,Daisy Edgar-Jones Taylor John Smith Harris Dickinson Olivia Newman Mystery Drama Thriller
+157,Paws of Fury: The Legend of Hank,Animation Action Adventure Comedy Family Western,"Rob Minkoff, Mark Koetsier",Michael Cera,Ricky Gervais,Mel Brooks,"Michael Cera Ricky Gervais Mel Brooks Rob Minkoff, Mark Koetsier Animation Action Adventure Comedy Family Western"
+158,Persuasion,Romance Drama Comedy,Carrie Cracknell,Dakota Johnson,Cosmo Jarvis,Nikki Amuka-Bird,Dakota Johnson Cosmo Jarvis Nikki Amuka-Bird Carrie Cracknell Romance Drama Comedy
+159,Gone in the Night,Thriller Mystery Drama,Eli Horowitz,Winona Ryder,Dermot Mulroney,John Gallagher Jr.,Winona Ryder Dermot Mulroney John Gallagher Jr. Eli Horowitz Thriller Mystery Drama
+160,1Up,Comedy,Kyle Newman,Paris Berelc,Taylor Zakhar Perez,Hari Nef,Paris Berelc Taylor Zakhar Perez Hari Nef Kyle Newman Comedy
+161,Wrong Place,Thriller,Mike Burns,Ashley Greene,Bruce Willis,,
+162,Don't Make Me Go,Drama,Hannah Marks,John Cho,Mia Isaac,,
+163,He's Watching,Horror,Jacob Aaron Estes,Iris Serena Estes,Lucas Steel Estes,,
+164,Nope,Horror Mystery Science Fiction,Jordan Peele,Daniel Kaluuya,Keke Palmer,Steven Yeun,Daniel Kaluuya Keke Palmer Steven Yeun Jordan Peele Horror Mystery Science Fiction
+165,Anything's Possible,Romance Comedy Drama,Billy Porter,Eva Reign,Abubakr Ali,Renée Elise Goldsberry,Eva Reign Abubakr Ali Renée Elise Goldsberry Billy Porter Romance Comedy Drama
+166,Alone Together,Romance Drama,Katie Holmes,Katie Holmes,Jim Sturgess,Derek Luke,Katie Holmes Jim Sturgess Derek Luke Katie Holmes Romance Drama
+167,DC League of Super-Pets,Animation Action Family Comedy Science Fiction,Jared Stern,Dwayne Johnson,Kevin Hart,Kate McKinnon,Dwayne Johnson Kevin Hart Kate McKinnon Jared Stern Animation Action Family Comedy Science Fiction
+168,Thirteen Lives,Drama Thriller Action Adventure,Ron Howard,Viggo Mortensen,Colin Farrell,Joel Edgerton,Viggo Mortensen Colin Farrell Joel Edgerton Ron Howard Drama Thriller Action Adventure
+169,Vengeance,Thriller Mystery Comedy,B. J. Novak,B. J. Novak,Boyd Holbrook,Dove Cameron,B. J. Novak Boyd Holbrook Dove Cameron B. J. Novak Thriller Mystery Comedy
+170,Sharp Stick,Comedy,Lena Dunham,Kristine Froseth,Jon Bernthal,Luka Sabbat,Kristine Froseth Jon Bernthal Luka Sabbat Lena Dunham Comedy
+171,Not Okay,Comedy Drama,Quinn Shephard,Zoey Deutch,Mia Isaac,Nadia Alexander,Zoey Deutch Mia Isaac Nadia Alexander Quinn Shephard Comedy Drama
+172,Paradise Highway,Thriller Crime Drama,Anna Gutto,Juliette Binoche,Frank Grillo,Hala Finley,Juliette Binoche Frank Grillo Hala Finley Anna Gutto Thriller Crime Drama
+173,Resurrection,Thriller Mystery Horror Drama,Andrew Semans,Rebecca Hall,Grace Kaufman,Michael Esper,Rebecca Hall Grace Kaufman Michael Esper Andrew Semans Thriller Mystery Horror Drama
+174,A Love Song,Music Documentary,Max Walker-Silverman,Dale Dickey,Wes Studi,,
+175,Honor Society,Comedy,Oran Zegman,Angourie Rice,Gaten Matarazzo,Christopher Mintz-Plasse,Angourie Rice Gaten Matarazzo Christopher Mintz-Plasse Oran Zegman Comedy
+176,Allegoria,Horror,Spider One,John Ennis,Bryce Johnson,Edward Hong,John Ennis Bryce Johnson Edward Hong Spider One Horror
+177,Bullet Train,Action Comedy Thriller,David Leitch,Brad Pitt,Joey King,Aaron Taylor-Johnson,Brad Pitt Joey King Aaron Taylor-Johnson David Leitch Action Comedy Thriller
+178,Luck,Animation Adventure Comedy Fantasy,Peggy Holmes,Eva Noblezada,Simon Pegg,Jane Fonda,Eva Noblezada Simon Pegg Jane Fonda Peggy Holmes Animation Adventure Comedy Fantasy
+179,Prey,Thriller Action Science Fiction,Dan Trachtenberg,Amber Midthunder,Dakota Beavers,Michelle Thrush,Amber Midthunder Dakota Beavers Michelle Thrush Dan Trachtenberg Thriller Action Science Fiction
+180,Easter Sunday,Comedy,Jay Chandrasekhar,Jo Koy,Jimmy O. Yang,Tia Carrere,Jo Koy Jimmy O. Yang Tia Carrere Jay Chandrasekhar Comedy
+181,Rise of the Teenage Mutant Ninja Turtles: The Movie,Animation Action Science Fiction,"Ant Ward, Andy Suriano",Ben Schwartz,Omar Benson Miller,Brandon Mychal Smith,"Ben Schwartz Omar Benson Miller Brandon Mychal Smith Ant Ward, Andy Suriano Animation Action Science Fiction"
+182,Bodies Bodies Bodies,Comedy Horror Mystery,Halina Reijn,Amandla Stenberg,Maria Bakalova,Myha'la Herrold,Amandla Stenberg Maria Bakalova Myha'la Herrold Halina Reijn Comedy Horror Mystery
+183,They/Them,Horror Thriller,John Logan,Kevin Bacon,Carrie Preston,Anna Chlumsky,Kevin Bacon Carrie Preston Anna Chlumsky John Logan Horror Thriller
+184,Secret Headquarters,Action Adventure Comedy Science Fiction Family,"Henry Joost, Ariel Schulman (directors/screenplay); Christopher Yost, Josh Koenigsberg (screenplay); Owen Wilson, Walker Scobell, Jesse Williams, Keith L. Williams, Momona Tamada, Charles Melton, Michael Peña",Owen Wilson,Walker Scobell,Jesse Williams,"Owen Wilson Walker Scobell Jesse Williams Henry Joost, Ariel Schulman (directors/screenplay); Christopher Yost, Josh Koenigsberg (screenplay); Owen Wilson, Walker Scobell, Jesse Williams, Keith L. Williams, Momona Tamada, Charles Melton, Michael Peña Action Adventure Comedy Science Fiction Family"
+185,Day Shift,Action Fantasy Horror Comedy,J. J. Perry,Jamie Foxx,Dave Franco,Natasha Liu Bordizzo,Jamie Foxx Dave Franco Natasha Liu Bordizzo J. J. Perry Action Fantasy Horror Comedy
+186,Mack & Rita,Comedy Fantasy,Katie Aselton,Diane Keaton,Taylour Paige,Elizabeth Lail,Diane Keaton Taylour Paige Elizabeth Lail Katie Aselton Comedy Fantasy
+187,Fall,Thriller,Scott Mann,Grace Caroline Currey,Virginia Gardner,Mason Gooding,Grace Caroline Currey Virginia Gardner Mason Gooding Scott Mann Thriller
+188,Emily the Criminal,Crime Drama Thriller,John Patton Ford,Aubrey Plaza,Theo Rossi,Megalyn Echikunwoke,Aubrey Plaza Theo Rossi Megalyn Echikunwoke John Patton Ford Crime Drama Thriller
+189,Summering,Drama,James Ponsoldt,Lia Barnett,Lake Bell,Sarah Cooper,Lia Barnett Lake Bell Sarah Cooper James Ponsoldt Drama
+190,Beast,Thriller Action Horror Adventure,Baltasar Kormákur,Idris Elba,Iyana Halley,Leah Sava Jeffries,Idris Elba Iyana Halley Leah Sava Jeffries Baltasar Kormákur Thriller Action Horror Adventure
+191,Orphan: First Kill,Horror Thriller,William Brent Bell,Isabelle Fuhrman,Rossif Sutherland,Hiro Kanagawa,Isabelle Fuhrman Rossif Sutherland Hiro Kanagawa William Brent Bell Horror Thriller
+192,Spin Me Round,Romance Comedy,Jeff Baena,Alison Brie,Alessandro Nivola,Molly Shannon,Alison Brie Alessandro Nivola Molly Shannon Jeff Baena Romance Comedy
+193,Delia's Gone,Mystery Thriller Crime Drama,Robert Budreau,Stephan James,Marisa Tomei,Paul Walter Hauser,Stephan James Marisa Tomei Paul Walter Hauser Robert Budreau Mystery Thriller Crime Drama
+194,Three Thousand Years of Longing,Fantasy,George Miller,Idris Elba,Tilda Swinton,,
+195,Samaritan,Action Crime Fantasy Science Fiction,Julius Avery,Sylvester Stallone,Javon Walton,Pilou Asbæk,Sylvester Stallone Javon Walton Pilou Asbæk Julius Avery Action Crime Fantasy Science Fiction
+196,Me Time,Comedy,John Hamburg,Kevin Hart,Mark Wahlberg,Regina Hall,Kevin Hart Mark Wahlberg Regina Hall John Hamburg Comedy
+197,The Invitation,Horror Thriller,Jessica M. Thompson,Nathalie Emmanuel,Thomas Doherty,Stephanie Corneliussen,Nathalie Emmanuel Thomas Doherty Stephanie Corneliussen Jessica M. Thompson Horror Thriller
+198,Breaking,Crime Drama Thriller,Abi Damaris Corbin,John Boyega,Nicole Beharie,Selenis Leyva,John Boyega Nicole Beharie Selenis Leyva Abi Damaris Corbin Crime Drama Thriller
+199,Funny Pages,Comedy,Owen Kline,Daniel Zolghadri,Matthew Maher,Miles Emanuel,Daniel Zolghadri Matthew Maher Miles Emanuel Owen Kline Comedy
+200,Honk for Jesus. Save Your Soul.,Comedy,Adamma Ebo,Regina Hall,Sterling K. Brown,Austin Crute,Regina Hall Sterling K. Brown Austin Crute Adamma Ebo Comedy
+201,Gigi & Nate,Drama,Nick Hamm,Marcia Gay Harden,Charlie Rowe,Josephine Langford,Marcia Gay Harden Charlie Rowe Josephine Langford Nick Hamm Drama
+202,Wire Room,Action Crime Thriller,Matt Eskandari,Kevin Dillon,Bruce Willis,,
+203,One Way,Action Crime Thriller,Andrew Baird,Colson Baker,Kevin Bacon,Travis Fimmel,Colson Baker Kevin Bacon Travis Fimmel Andrew Baird Action Crime Thriller
+204,After Ever Happy,Romance Drama,Castille Landon,Hero Fiennes-Tiffin,Josephine Langford,Louise Lombard,Hero Fiennes-Tiffin Josephine Langford Louise Lombard Castille Landon Romance Drama
+205,Pinocchio,Fantasy Adventure Family,Robert Zemeckis,Tom Hanks,Benjamin Evan Ainsworth,Joseph Gordon-Levitt,Tom Hanks Benjamin Evan Ainsworth Joseph Gordon-Levitt Robert Zemeckis Fantasy Adventure Family
+206,Barbarian,Horror Mystery Thriller,Zach Cregger,Georgina Campbell,Bill Skarsgård,Justin Long,Georgina Campbell Bill Skarsgård Justin Long Zach Cregger Horror Mystery Thriller
+207,End of the Road,Crime,Millicent Shelton,Queen Latifah,Ludacris,Beau Bridges,Queen Latifah Ludacris Beau Bridges Millicent Shelton Crime
+208,Lifemark,Drama,Kevin Peeples,Kirk Cameron,Alex Kendrick,Raphael Ruggero,Kirk Cameron Alex Kendrick Raphael Ruggero Kevin Peeples Drama
+209,Flight/Risk,Documentary,"Karim Amer, Omar Mullick",Karim Amer,Omar Mullick (directors),,
+210,Clerks III,Comedy,Kevin Smith,Brian O'Halloran,Jeff Anderson,Trevor Fehrman,Brian O'Halloran Jeff Anderson Trevor Fehrman Kevin Smith Comedy
+211,The Woman King,Action Drama History,Gina Prince-Bythewood,Viola Davis,Thuso Mbedu,Lashana Lynch,Viola Davis Thuso Mbedu Lashana Lynch Gina Prince-Bythewood Action Drama History
+212,See How They Run,Mystery Comedy Thriller,Tom George,Saoirse Ronan,Sam Rockwell,Adrien Brody,Saoirse Ronan Sam Rockwell Adrien Brody Tom George Mystery Comedy Thriller
+213,Blonde,Drama,Andrew Dominik,Ana de Armas,Adrien Brody,Bobby Cannavale,Ana de Armas Adrien Brody Bobby Cannavale Andrew Dominik Drama
+214,Pearl,Horror,Ti West,Mia Goth,David Corenswet,Tandi Wright,Mia Goth David Corenswet Tandi Wright Ti West Horror
+215,Do Revenge,Comedy,Jennifer Kaytin Robinson,Camila Mendes,Maya Hawke,Austin Abrams,Camila Mendes Maya Hawke Austin Abrams Jennifer Kaytin Robinson Comedy
+216,The Silent Twins,Drama,Agnieszka Smoczyńska,Letitia Wright,Tamara Lawrance,Nadine Marshall,Letitia Wright Tamara Lawrance Nadine Marshall Agnieszka Smoczyńska Drama
+217,"Confess, Fletch",Crime Comedy Mystery,Greg Mottola,Jon Hamm,Marcia Gay Harden,Kyle MacLachlan,Jon Hamm Marcia Gay Harden Kyle MacLachlan Greg Mottola Crime Comedy Mystery
+218,Moonage Daydream,Documentary Music,Brett Morgen,David Bowie,,,
+219,God's Country,Thriller Western,Julian Higgins,Thandiwe Newton,Jeremy Bobb,Joris Jarsky,Thandiwe Newton Jeremy Bobb Joris Jarsky Julian Higgins Thriller Western
+220,Goodnight Mommy,Horror Drama Thriller,Matt Sobel,Naomi Watts,Cameron Crovetti,Nicholas Crovetti,Naomi Watts Cameron Crovetti Nicholas Crovetti Matt Sobel Horror Drama Thriller
+221,Running the Bases,Drama,"Marty Roberts, Jimmy Womble (directors/screenplay); Brett Varvel, Gigi Orsillo, Todd Terry, Cameron Arnett",Brett Varvel,Gigi Orsillo,Todd Terry,"Brett Varvel Gigi Orsillo Todd Terry Marty Roberts, Jimmy Womble (directors/screenplay); Brett Varvel, Gigi Orsillo, Todd Terry, Cameron Arnett Drama"
+222,Jeepers Creepers: Reborn,Horror Thriller Mystery,Timo Vuorensola,Sydney Craven,Imran Adams,Jarreau Benjamin,Sydney Craven Imran Adams Jarreau Benjamin Timo Vuorensola Horror Thriller Mystery
+223,Don't Worry Darling,Thriller Mystery Science Fiction,Olivia Wilde,Florence Pugh,Harry Styles,Olivia Wilde,Florence Pugh Harry Styles Olivia Wilde Olivia Wilde Thriller Mystery Science Fiction
+224,Catherine Called Birdy,Adventure Comedy,Lena Dunham,Bella Ramsey,Billie Piper,Andrew Scott,Bella Ramsey Billie Piper Andrew Scott Lena Dunham Adventure Comedy
+225,Section Eight,Action Thriller,"Christian Sesma(director); Ryan Kwanten, Dolph Lundgren, Dermot Mulroney, Mickey Rourke, Scott Adkins",Christian Sesma(director); Ryan Kwanten,Dolph Lundgren,Dermot Mulroney,"Christian Sesma(director); Ryan Kwanten Dolph Lundgren Dermot Mulroney Christian Sesma(director); Ryan Kwanten, Dolph Lundgren, Dermot Mulroney, Mickey Rourke, Scott Adkins Action Thriller"
+226,Lou,Action Thriller,Anna Foerster,Allison Janney,Jurnee Smollett,Logan Marshall-Green,Allison Janney Jurnee Smollett Logan Marshall-Green Anna Foerster Action Thriller
+227,On the Come Up,Drama Music,Sanaa Lathan,Jamila C. Gray,Da'Vine Joy Randolph,Lil Yachty,Jamila C. Gray Da'Vine Joy Randolph Lil Yachty Sanaa Lathan Drama Music
+228,A Jazzman's Blues,Drama Romance,Tyler Perry,Joshua Boone,Amirah Vann,Solea Pfeiffer,Joshua Boone Amirah Vann Solea Pfeiffer Tyler Perry Drama Romance
+229,The Munsters,Comedy Fantasy,Rob Zombie,Jeff Daniel Phillips,Sheri Moon Zombie,Daniel Roebuck,Jeff Daniel Phillips Sheri Moon Zombie Daniel Roebuck Rob Zombie Comedy Fantasy
+230,Smile,Horror Mystery Thriller,Parker Finn,Sosie Bacon,Jessie T. Usher,Kyle Gallner,Sosie Bacon Jessie T. Usher Kyle Gallner Parker Finn Horror Mystery Thriller
+231,Bros,Animation Adventure Family Fantasy Comedy,Nicholas Stoller,Billy Eichner,Luke Macfarlane,Ts Madison,Billy Eichner Luke Macfarlane Ts Madison Nicholas Stoller Animation Adventure Family Fantasy Comedy
+232,Hocus Pocus 2,Fantasy Comedy Family,Anne Fletcher,Bette Midler,Sarah Jessica Parker,Kathy Najimy,Bette Midler Sarah Jessica Parker Kathy Najimy Anne Fletcher Fantasy Comedy Family
+233,The Greatest Beer Run Ever,Drama Comedy War History,Peter Farrelly,Zac Efron,Russell Crowe,Bill Murray,Zac Efron Russell Crowe Bill Murray Peter Farrelly Drama Comedy War History
+234,The Good House,Romance Drama Comedy,"Maya Forbes, Wally Wolodarsky (directors/screenplay); Thomas Bezucha (screenplay); Sigourney Weaver, Kevin Kline, Morena Baccarin, Rob Delaney, Beverly D'Angelo",Sigourney Weaver,Kevin Kline,Morena Baccarin,"Sigourney Weaver Kevin Kline Morena Baccarin Maya Forbes, Wally Wolodarsky (directors/screenplay); Thomas Bezucha (screenplay); Sigourney Weaver, Kevin Kline, Morena Baccarin, Rob Delaney, Beverly D'Angelo Romance Drama Comedy"
+235,Luckiest Girl Alive,Drama Thriller Mystery,Mike Barker,Mila Kunis,Finn Wittrock,Scoot McNairy,Mila Kunis Finn Wittrock Scoot McNairy Mike Barker Drama Thriller Mystery
+236,God's Creatures,Drama,"Saela Davis, Anna Rose Holmer",Emily Watson,Paul Mescal,Aisling Franciosi,"Emily Watson Paul Mescal Aisling Franciosi Saela Davis, Anna Rose Holmer Drama"
+237,Dead for a Dollar,Western Thriller,Walter Hill,Christoph Waltz,Willem Dafoe,Rachel Brosnahan,Christoph Waltz Willem Dafoe Rachel Brosnahan Walter Hill Western Thriller
+238,My Best Friend's Exorcism,Horror Comedy,Damon Thomas,Elsie Fisher,Amiah Miller,Cathy Ang,Elsie Fisher Amiah Miller Cathy Ang Damon Thomas Horror Comedy
+239,Hot Take: The Depp/Heard Trial,Crime Thriller Drama,Sara Lohman,Mark Hapka,Megan Davis,Mellisa Marty,Mark Hapka Megan Davis Mellisa Marty Sara Lohman Crime Thriller Drama
